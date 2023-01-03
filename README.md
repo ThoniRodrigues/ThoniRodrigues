@@ -1,7 +1,7 @@
 ### Oi eu sou o Thoni Rodrigues 👋
 
 - 🔭 Estou em busca de ser um programador Junior
-- 💬 Estou cursando pós graduação em Administração de Banco de Dados
+- 💬 Sou formado em pós graduação em Administração de Banco de Dados
 - 📫 Contate-me no email: thonirodriguess@hotmail.com
 
 </div>
